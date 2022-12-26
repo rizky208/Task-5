@@ -570,8 +570,8 @@ a {
   }
   header.navbar {
   }
-  nav {
-    /* display: none; */
+  #navLink {
+    display: none;
     flex-direction: column;
   }
   .ul-navbar {
